@@ -1,0 +1,3 @@
+My student Ailan Batista has done this AspectJ project as final project of the Aspect-Oriented Program module.
+
+Tools: AJDT + Eclipse + Tomcat as it has been oriented on https://marcioalexandre.wordpress.com/classes/aop_environment/
